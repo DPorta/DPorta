@@ -1,4 +1,4 @@
-### Hi there 👋, soy David,
+### Hola a todos 👋, soy David,
 #### estudiante de Ciencias de la Computación
 ![estudiante de Ciencias de la Computación](https://wallpapercave.com/wp/wp5805427.gif)
 
