@@ -4,7 +4,7 @@
 ---
 Me gusta todo lo relacionado con la tecnología, incluyendo videojuegos. Paso mis ratos libres conversando y jugando videojuegos con mis amigos, también me gusta intentar implementar programas que se me vayan ocurriendo. 
 
-Skills: C++ / Python / R / HTML / CSS / TypeScript / JavaScript
+Skills: C++ / Python / R / HTML / CSS / JavaScript / GO
 
 - 🌱 Aprendiendo: Kotlin / Excel avanzado 
 - 📫 Contáctame: david_opm@hotmail.com 
