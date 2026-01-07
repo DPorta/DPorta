@@ -1,12 +1,13 @@
-### Hola 👋, soy David Porta, estudiante de Ciencias de la Computación.
+### Hola 👋, soy David Porta, licenciado en Ciencias de la Computación.
 ---
 ![estudiante de Ciencias de la Computación](https://wallpapercave.com/wp/wp5805427.gif)
 ---
-Me gusta todo lo relacionado con la tecnología, incluyendo videojuegos. Paso mis ratos libres conversando y jugando videojuegos con mis amigos, también me gusta intentar implementar programas que se me vayan ocurriendo. 
+Me gusta todo lo relacionado con la tecnología, incluyendo videojuegos. Paso mis ratos libres conversando y jugando videojuegos con mis amigos.
+Profesionalmente estoy cursando mi maestría en Inteligencia Artificial y me encuentro trabajando como Cientifico de Datos.
 
-Skills: C++ / Python / R / HTML / CSS / JavaScript / GO
+Data Science: Python / Machine Learning / Gen AI / AWS / R
+Extra: HTML / CSS / JavaScript / C++
 
-- 🌱 Aprendiendo: Kotlin / Excel avanzado 
 - 📫 Contáctame: david_opm@hotmail.com 
 - 😄 Alias: Daobi
 - ⚡ Dato curioso: *pensando en uno..*
